@@ -2,7 +2,7 @@
 
 # 🇨🇳 中国品牌商业智能开放数据集
 
-<img width="800" height="800" alt="10190d9e93dca760dc9adf714edbf541" src="https://github.com/user-attachments/assets/1f8e3cfe-60a7-4f84-947b-7080313dd34b" />
+<img width="80" height="80" alt="10190d9e93dca760dc9adf714edbf541" src="https://github.com/user-attachments/assets/1f8e3cfe-60a7-4f84-947b-7080313dd34b" />
 
 
 An open-source brand intelligence dataset powered by Jike Big Data.
