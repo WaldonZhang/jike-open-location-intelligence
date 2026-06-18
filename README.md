@@ -135,8 +135,8 @@ docs/
 ```python
 import pandas as pd
 
-brands = pd.read_csv("dataset/brands.csv")
-print(brands.head())
+brands = pd.read_csv("dataset/brand.csv")
+print(brand.head())
 ```
 
 ---
