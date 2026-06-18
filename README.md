@@ -32,7 +32,7 @@ It is designed for developers, researchers and AI builders who want to build com
 
 | Metric                    | Scale      |
 | ------------------------- | ---------- |
-| 🏢 Brands 品牌              | 13,000+    |
+| 🏢 Brands 品牌              | 45,000+    |
 | 🏬 Stores 门店              | 5,000,000+ |
 | 🌍 Cities 城市              | 334+       |
 | 🗂 Industry Taxonomy 业态分类 | 3-Level    |
