@@ -12,9 +12,13 @@ An open-source brand intelligence dataset powered by Jike Big Data.
 ---
 
 🏢 13,000+ Brands 品牌
+
 🏬 5,000,000+ Stores 门店
+
 🌍 334+ Cities 城市
+
 🗂 3-Level Industry Taxonomy 业态分类
+
 🤖 AI Ready Dataset AI适配的数据库
 
 ---
