@@ -21,6 +21,7 @@ Open Brand Intelligence Dataset for AI, Commercial Analysis and Location Intelli
 China Open Brand Intelligence Dataset is an open commercial knowledge base containing nationwide brand information, store scale, city coverage and industry taxonomy.
 
 It is designed for developers, researchers and AI builders who want to build commercial intelligence applications, market research tools and AI agents.
+Containing brand basic info with over 10 stores nationwide. 
 
 中国品牌商业智能开放数据集是一套面向开发者、研究人员和 AI 创业者的商业知识库。
 
