@@ -25,6 +25,7 @@ It is designed for developers, researchers and AI builders who want to build com
 中国品牌商业智能开放数据集是一套面向开发者、研究人员和 AI 创业者的商业知识库。
 
 数据集包含全国品牌信息、门店规模、城市覆盖、品牌客单价和业态分类等核心商业数据，可用于构建竞品分析、市场研究、智能选址和商业分析 Agent 等应用。
+收录全国门店超过10家的品牌基础信息
 
 ---
 
